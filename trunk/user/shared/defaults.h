@@ -41,7 +41,7 @@
 #define DEF_WLAN_5G_SSID	BOARD_PID "_5G_%s"
 #define DEF_WLAN_2G_GSSID	BOARD_PID "_GUEST_%s"
 #define DEF_WLAN_5G_GSSID	BOARD_PID "_GUEST_5G_%s"
-#define DEF_WLAN_2G_PSK		" qwe123456"
+#define DEF_WLAN_2G_PSK		"qwe123456"
 #define DEF_WLAN_5G_PSK		"qwe123456"
 
 #define DEF_ROOT_PASSWORD	"admin"
