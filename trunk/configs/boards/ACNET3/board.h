@@ -1,6 +1,6 @@
 /* NEWIFI3(d2) */
 
-#define BOARD_PID		"ACNET3"
+#define BOARD_PID		"ACNET-WIFI"
 #define BOARD_NAME		"ACNET3"
 #define BOARD_DESC		"ACNET3 Wireless Router"
 #define BOARD_VENDOR_NAME	"Diting Technology"
